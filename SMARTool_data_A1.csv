@@ -1,43 +1,43 @@
 Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,User language translation,English translation,Reference,Topic(s)
-adresa,1,address,,N.Fem.Inan,A1,Cvejnová,1,adresu,Acc.Sing,"Napíšu sem svoje jméno, mobil a e-mailovou adresu.",,"I’ll write my name, phone number, and email address here.",SYN2015,osobní údaje
-adresa,2,address,,N.Fem.Inan,A1,Cvejnová,2,adrese,Loc.Sing,Více se dozvíte na internetové adrese.,,Learn more at the web address.,SYN2015,osobní údaje
-adresa,3,address,,N.Fem.Inan,A1,Cvejnová,3,adresa,Nom.Sing,Toto je samozřejmě adresa mého trvalého bydliště.,,This is of course my permanent address.,SYN2015,osobní údaje
-adresát,4,addressee,,N.Masc.Anim,A1,Cvejnová,1,adresát,Nom.Sing,Pro poštu je adresát neznámý nebo se odstěhoval.,,"For the post office, the addressee is unknown or moved out.",SYN2015,nakupování a služby
-adresát,5,addressee,,N.Masc.Anim,A1,Cvejnová,2,adresátů,Gen.Plur,Skrytá kopie slouží k uvedení dalších adresátů.,,Bcc is used to specify additional recipients.,SYN2015,nakupování a služby
-adresát,6,addressee,,N.Masc.Anim,A1,Cvejnová,3,adresáta,Acc.Sing,Neberou ohled na adresáta dopisu.,,They disregard the addressee of the letter.,SYN2015,nakupování a služby
-advokát,7,advocate,,N.Masc.Anim,A1,Cvejnová,1,advokát,Nom.Sing,Ďáblův advokát chtěl svoje peníze zpět.,,Devil's advocate wanted their money back.,SYN2015,styk s úřady
-advokát,8,advocate,,N.Masc.Anim,A1,Cvejnová,2,advokáta,Gen.Sing,To jsi mi už sděloval prostřednictvím svého advokáta.,,You have already told me that through your lawyer.,SYN2015,styk s úřady
-advokát,9,advocate,,N.Masc.Anim,A1,Cvejnová,3,advokáti,Nom.Plur,Advokáti se velmi aktivně uplatňovali ve všech sférách společenského života.,,Advocates were very active in all spheres of social life.,SYN2015,styk s úřady
-advokátka,10,female advocate,,N.Fem.Anim,A1,Cvejnová,1,advokátka,Nom.Sing,Celia pracovala jako advokátka pro jistou slavnou londýnskou advokátní kancelář.,,Celia worked as an advocate for a famous London advocate office.,SYN2015,styk s úřady
-advokátka,11,female advocate,,N.Fem.Anim,A1,Cvejnová,2,advokátku,Acc.Sing,Moje budoucnost je dělat advokátku v kanceláři mého otce.,,My future is to be an advocate in my father's office.,SYN2015,styk s úřady
-advokátka,12,female advocate,,N.Fem.Anim,A1,Cvejnová,3,advokátkou,Ins.Sing,Nechtěla jsem být advokátkou.,,I didn't want to be an advocate.,SYN2015,styk s úřady
-aerobik,13,aerobics,,N.Masc.Inan,A1,Cvejnová,1,aerobiku,Gen.Sing,Je velmi těžké porovnávat znalosti a dovednosti instruktora aerobiku s instruktorem pilates nebo powerjógy. ,,It is very difficult to compare the knowledge and skills of an aerobics instructor with a pilates or power yoga instructor.,SYN2015,volný čas
-aerobik,14,aerobics,,N.Masc.Inan,A1,Cvejnová,2,aerobik,Acc.Sing,Začnu chodit na aerobik.	,,I'm going to start with aerobics.,SYN2015,volný čas
-aerobik,15,aerobics,,N.Masc.Inan,A1,Cvejnová,3,aerobik,Nom.Sing,Jediný rozdíl je v pořadí aktivit plavání a aerobik. ,,The only difference is in the order of swimming and aerobics activities.,SYN2015,volný čas
-alkohol,16,alcohol,,N.Masc.Inan,A1,Cvejnová,1,alkoholu,Gen.Sing,Dlouhodobá konzumace většího množství alkoholu poškozuje zdraví.,,Long-term consumption of large quantities of alcohol harms health.,SYN2015,"stravování, cestování"
-alkohol,17,alcohol,,N.Masc.Inan,A1,Cvejnová,2,alkohol,Acc.Sing,Nesmíš pít alkohol.,,You cannot drink alcohol.,SYN2015,"stravování, cestování"
-alkohol,18,alcohol,,N.Masc.Inan,A1,Cvejnová,3,alkohol,Nom.Sing,Alkohol a drogy za volant nepatří.,,Alcohol and drugs do not belong behind the wheel.,SYN2015,"stravování, cestování"
-angličtina,19,English,,N.Fem.Inan,A1,Cvejnová,1,angličtině,Loc.Sing,,,,SYN2015,vzdělání
-angličtina,20,English,,N.Fem.Inan,A1,Cvejnová,2,angličtiny,Gen.Sing,,,,SYN2015,vzdělání
-angličtina,21,English,,N.Fem.Inan,A1,Cvejnová,3,angličtina,Nom.Sing,,,,SYN2015,vzdělání
-asistent,22,assistant,,N.Masc.Anim,A1,Cvejnová,1,asistent,Nom.Sing,,,,SYN2015,"práce, vzdělání"
-asistent,23,assistant,,N.Masc.Anim,A1,Cvejnová,2,asistenta,Gen.Sing,,,,SYN2015,"práce, vzdělání"
-asistent,24,assistant,,N.Masc.Anim,A1,Cvejnová,3,asistentem,Ins.Sing,,,,SYN2015,"práce, vzdělání"
-asistentka,25,female assistant,,N.Fem.Anim,A1,Cvejnová,1,asistentka,Nom.Sing,,,,SYN2015,"práce, vzdělání"
-asistentka,26,female assistant,,N.Fem.Anim,A1,Cvejnová,2,asistentky,Gen.Sing,,,,SYN2015,"práce, vzdělání"
-asistentka,27,female assistant,,N.Fem.Anim,A1,Cvejnová,3,asistentku,Acc.Sing,,,,SYN2015,"práce, vzdělání"
-auto,28,car,,N.Neut.Inan,A1,Cvejnová,1,auta,Gen.Sing,,,,SYN2015,cestování
-auto,29,car,,N.Neut.Inan,A1,Cvejnová,2,auto,Acc.Sing,,,,SYN2015,cestování
-auto,30,car,,N.Neut.Inan,A1,Cvejnová,3,auto,Nom.Sing,,,,SYN2015,cestování
-autobus,31,bus,,N.Masc.Inan,A1,Cvejnová,1,autobusu,Gen.Sing,,,,SYN2015,cestování
-autobus,32,bus,,N.Masc.Inan,A1,Cvejnová,2,autobus,Nom.Sing,,,,SYN2015,cestování
-autobus,33,bus,,N.Masc.Inan,A1,Cvejnová,3,autobusem,Ins.Sing,,,,SYN2015,cestování
-automat,34,machine,,N.Masc.Inan,A1,Cvejnová,1,automatů,Gen.Plur,,,,SYN2015,cestování
-automat,35,machine,,N.Masc.Inan,A1,Cvejnová,2,automat,Nom.Sing,,,,SYN2015,cestování
-automat,36,machine,,N.Masc.Inan,A1,Cvejnová,3,automatu,Gen.Sing,,,,SYN2015,cestování
-autoservis,37,car service,,N.Masc.Inan,A1,Cvejnová,1,autoservisu,Gen.Sing,,,,SYN2015,cestování
-autoservis,38,car service,,N.Masc.Inan,A1,Cvejnová,2,autoservisu,Loc.Sing,,,,SYN2015,cestování
-autoservis,39,car service,,N.Masc.Inan,A1,Cvejnová,3,autoservis,Gen.Sing,,,,SYN2015,cestování
+adresa,1,address,,N.Fem.Inan,A1,Cvejnová,1,adresu,Acc.Sing,"Napíšu sem svoje jméno, mobil a e-mailovou adresu.","I’ll write my name, phone number, and email address here.",,SYN2015,osobní údaje
+adresa,2,address,,N.Fem.Inan,A1,Cvejnová,2,adrese,Loc.Sing,Více se dozvíte na internetové adrese.,Learn more at the web address.,,SYN2015,osobní údaje
+adresa,3,address,,N.Fem.Inan,A1,Cvejnová,3,adresa,Nom.Sing,Toto je samozřejmě adresa mého trvalého bydliště.,This is of course my permanent address.,,SYN2015,osobní údaje
+adresát,4,addressee,,N.Masc.Anim,A1,Cvejnová,1,adresát,Nom.Sing,Pro poštu je adresát neznámý nebo se odstěhoval.,"For the post office, the addressee is unknown or moved out.",,SYN2015,nakupování a služby
+adresát,5,addressee,,N.Masc.Anim,A1,Cvejnová,2,adresátů,Gen.Plur,Skrytá kopie slouží k uvedení dalších adresátů.,Bcc is used to specify additional recipients.,,SYN2015,nakupování a služby
+adresát,6,addressee,,N.Masc.Anim,A1,Cvejnová,3,adresáta,Acc.Sing,Neberou ohled na adresáta dopisu.,They disregard the addressee of the letter.,,SYN2015,nakupování a služby
+advokát,7,advocate,,N.Masc.Anim,A1,Cvejnová,1,advokát,Nom.Sing,Ďáblův advokát chtěl svoje peníze zpět.,Devil's advocate wanted their money back.,,SYN2015,styk s úřady
+advokát,8,advocate,,N.Masc.Anim,A1,Cvejnová,2,advokáta,Gen.Sing,To jsi mi už sděloval prostřednictvím svého advokáta.,You have already told me that through your lawyer.,,SYN2015,styk s úřady
+advokát,9,advocate,,N.Masc.Anim,A1,Cvejnová,3,advokáti,Nom.Plur,Advokáti se velmi aktivně uplatňovali ve všech sférách společenského života.,Advocates were very active in all spheres of social life.,,SYN2015,styk s úřady
+advokátka,10,female advocate,,N.Fem.Anim,A1,Cvejnová,1,advokátka,Nom.Sing,Celia pracovala jako advokátka pro jistou slavnou londýnskou advokátní kancelář.,Celia worked as an advocate for a famous London advocate office.,,SYN2015,styk s úřady
+advokátka,11,female advocate,,N.Fem.Anim,A1,Cvejnová,2,advokátku,Acc.Sing,Moje budoucnost je dělat advokátku v kanceláři mého otce.,My future is to be an advocate in my father's office.,,SYN2015,styk s úřady
+advokátka,12,female advocate,,N.Fem.Anim,A1,Cvejnová,3,advokátkou,Ins.Sing,Nechtěla jsem být advokátkou.,I didn't want to be an advocate.,,SYN2015,styk s úřady
+aerobik,13,aerobics,,N.Masc.Inan,A1,Cvejnová,1,aerobiku,Gen.Sing,Je velmi těžké porovnávat znalosti a dovednosti instruktora aerobiku s instruktorem pilates nebo powerjógy.,It is very difficult to compare the knowledge and skills of an aerobics instructor with a pilates or power yoga instructor.,,SYN2015,volný čas
+aerobik,14,aerobics,,N.Masc.Inan,A1,Cvejnová,2,aerobik,Acc.Sing,Začnu chodit na aerobik.,I'm going to start with aerobics.,,SYN2015,volný čas
+aerobik,15,aerobics,,N.Masc.Inan,A1,Cvejnová,3,aerobik,Nom.Sing,Jediný rozdíl je v pořadí aktivit plavání a aerobik.,The only difference is in the order of swimming and aerobics activities.,,SYN2015,volný čas
+alkohol,16,alcohol,,N.Masc.Inan,A1,Cvejnová,1,alkoholu,Gen.Sing,Dlouhodobá konzumace většího množství alkoholu poškozuje zdraví.,Long-term consumption of large quantities of alcohol harms health.,,SYN2015,"stravování, cestování"
+alkohol,17,alcohol,,N.Masc.Inan,A1,Cvejnová,2,alkohol,Acc.Sing,Nesmíš pít alkohol.,You cannot drink alcohol.,,SYN2015,"stravování, cestování"
+alkohol,18,alcohol,,N.Masc.Inan,A1,Cvejnová,3,alkohol,Nom.Sing,Alkohol a drogy za volant nepatří.,Alcohol and drugs do not belong behind the wheel.,,SYN2015,"stravování, cestování"
+angličtina,19,English,,N.Fem.Inan,A1,Cvejnová,1,angličtině,Loc.Sing,Zdokonalím se v angličtině.,I will improve my English.,,SYN2015,vzdělání
+angličtina,20,English,,N.Fem.Inan,A1,Cvejnová,2,angličtiny,Gen.Sing,Překládají do angličtiny polské vtipy.,They translate Polish jokes into English.,,SYN2015,vzdělání
+angličtina,21,English,,N.Fem.Inan,A1,Cvejnová,3,angličtina,Nom.Sing,Diplomatické a obchodní jazyky jsou angličtina a francouzština .,Diplomatic and business languages are English and French.,,SYN2015,vzdělání
+asistent,22,assistant,,N.Masc.Anim,A1,Cvejnová,1,asistent,Nom.Sing,Pracoval v Plzni jako asistent trenéra.,He worked in Pilsen as an coach's assistant.,,SYN2015,"práce, vzdělání"
+asistent,23,assistant,,N.Masc.Anim,A1,Cvejnová,2,asistenta,Gen.Sing,Učitelka může pracovat za pomoci asistenta pedagoga.,The teacher can work with the help of a teaching assistant.,,SYN2015,"práce, vzdělání"
+asistent,24,assistant,,N.Masc.Anim,A1,Cvejnová,3,asistentem,Ins.Sing,Zato se stal asistentem na katedře dějin umění.,"However, he became an assistant at the department of art history.",,SYN2015,"práce, vzdělání"
+asistentka,25,female assistant,,N.Fem.Anim,A1,Cvejnová,1,asistentka,Nom.Sing,V Německu u každého porodu musí být porodní asistentka.,There must be a midwife for every birth in Germany.,,SYN2015,"práce, vzdělání"
+asistentka,26,female assistant,,N.Fem.Anim,A1,Cvejnová,2,asistentky,Gen.Sing,Za pomoci asistentky a paní učitelky se naučila kotoul vpřed i vzad.,She learnt the roll back and forth with the help of an assistant and a teacher.,,SYN2015,"práce, vzdělání"
+asistentka,27,female assistant,,N.Fem.Anim,A1,Cvejnová,3,asistentku,Acc.Sing,Dělala dobrovolnou pedagogickou asistentku.,She worked as a volunteer teaching assistant.,,SYN2015,"práce, vzdělání"
+auto,28,car,,N.Neut.Inan,A1,Cvejnová,1,auta,Gen.Sing,Nasedli jsme do auta a odjeli.,We got in the car and drove off.,,SYN2015,cestování
+auto,29,car,,N.Neut.Inan,A1,Cvejnová,2,auto,Acc.Sing,Zaparkoval auto na náměstí před katedrálou.,He parked his car on the square in front of the cathedral.,,SYN2015,cestování
+auto,30,car,,N.Neut.Inan,A1,Cvejnová,3,auto,Nom.Sing,Nákladní auto přivezlo konečně cihly.,The truck finally brought the bricks.,,SYN2015,cestování
+autobus,31,bus,,N.Masc.Inan,A1,Cvejnová,1,autobusu,Gen.Sing,Na zastávce autobusu najednou stálo sto či dvě stě lidí.,One hundred or two hundred people were standing at the bus stop at once.,,SYN2015,cestování
+autobus,32,bus,,N.Masc.Inan,A1,Cvejnová,2,autobus,Nom.Sing,Autobus se na každé zastávce zaplňoval.,The bus was filling up at every stop.,,SYN2015,cestování
+autobus,33,bus,,N.Masc.Inan,A1,Cvejnová,3,autobusem,Ins.Sing,Chtěla jet autobusem.,She wanted to take a bus.,,SYN2015,cestování
+automat,34,machine,,N.Masc.Inan,A1,Cvejnová,1,automatů,Gen.Plur,Příjem z výherních automatů rok od roku stoupá.,Income from slot machines is rising year by year.,,SYN2015,cestování
+automat,35,machine,,N.Masc.Inan,A1,Cvejnová,2,automat,Nom.Sing,On je jako obrovský hrací automat.,He is like a huge slot machine.,,SYN2015,cestování
+automat,36,machine,,N.Masc.Inan,A1,Cvejnová,3,automatu,Gen.Sing,Hodil do automatu minci a vytočil číslo.,He tossed a coin into the payphone and dialed the number.,,SYN2015,cestování
+autoservis,37,car service,,N.Masc.Inan,A1,Cvejnová,1,autoservisu,Gen.Sing,Cestou mi zavolal mechanik z autoservisu.,A car mechanic called me on the way.,,SYN2015,cestování
+autoservis,38,car service,,N.Masc.Inan,A1,Cvejnová,2,autoservisu,Loc.Sing,Pracoval jsem v autoservisu.,I worked in a car service.,,SYN2015,cestování
+autoservis,39,car service,,N.Masc.Inan,A1,Cvejnová,3,autoservis,Nom.Sing,Autoservis přece není daleko.,The car service is not far away.,,SYN2015,cestování
 babička,40,grandmother,,N.Fem.Anim,A1,Cvejnová,1,babička,Nom.Sing,,,,SYN2015,rodina
 babička,41,grandmother,,N.Fem.Anim,A1,Cvejnová,2,babičky,Gen.Sing,,,,SYN2015,rodina
 babička,42,grandmother,,N.Fem.Anim,A1,Cvejnová,3,babičku,Acc.Sing,,,,SYN2015,rodina
